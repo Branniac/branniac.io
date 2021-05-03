@@ -1,0 +1,11 @@
+.navlink: hover{
+	color: #F4230B !important;
+}
+
+.active{
+	color: #F4230B !important;
+}
+
+.other-welcome-area{
+	height: 50vh !important;
+}
